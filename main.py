@@ -1,5 +1,5 @@
-from revers_text import revers_text
+from revers_text import reverse_text
 
 text = input()
 
-print(revers_text(text))
+print(reverse_text(text))
