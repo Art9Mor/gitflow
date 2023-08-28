@@ -1,3 +1,5 @@
 from revers_text import reverse_text
 
-print(reverse_text('ahmuencab'))
+text = input()
+
+print(reverse_text(text))
