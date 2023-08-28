@@ -1,3 +1,3 @@
-def revers_text(value):
+def reverse_text(value):
     result = ''.join(reversed(value))
     return result
