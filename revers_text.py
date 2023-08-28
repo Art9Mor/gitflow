@@ -1,3 +1,5 @@
 def reverse_text(value):
-    result = ''.join(reversed(value))
-    return result
+    """
+    The function reverses the text
+    """
+    return value[::-1]
